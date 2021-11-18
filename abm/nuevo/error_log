@@ -1,0 +1,3 @@
+[22-Jun-2021 22:27:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/nuevo/partediario.php on line 6
+[22-Jun-2021 22:27:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/abm/nuevo/partediario.php on line 10
+[22-Jun-2021 22:27:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/nuevo/partediario.php on line 11

@@ -1,0 +1,7 @@
+[22-Jun-2021 22:33:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: consulta_finca in /home/apsscom/public_html/agrogestion/abm/reporte/excel_propios.php on line 138
+[22-Jun-2021 22:33:23 America/Argentina/Buenos_Aires] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/apsscom/public_html/agrogestion/classes/PHPExcel/Calculation/Functions.php on line 581
+[22-Jun-2021 22:41:23 America/Argentina/Buenos_Aires] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/apsscom/public_html/agrogestion/classes/PHPExcel/Calculation/Functions.php on line 581
+[22-Jun-2021 23:51:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/reporte/excel_propios.php on line 6
+[22-Jun-2021 23:51:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/reporte/excel_propios.php on line 90
+[22-Jun-2021 23:53:07 America/Argentina/Buenos_Aires] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/apsscom/public_html/agrogestion/classes/PHPExcel/Calculation/Functions.php on line 581
+[04-Jul-2021 21:06:57 America/Argentina/Buenos_Aires] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/apsscom/public_html/agrogestion/classes/PHPExcel/Calculation/Functions.php on line 581

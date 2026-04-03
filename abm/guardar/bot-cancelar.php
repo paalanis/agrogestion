@@ -40,8 +40,8 @@ $sqlUpdate = "UPDATE business_records
               WHERE idempotency_key='$ik'";
 mysqli_query($conexion, $sqlUpdate);
 
-// 3. Borrar filas de tb_parte_diario_test
-$sqlDelete = "DELETE FROM tb_parte_diario_test WHERE id_parte_diario_global='$idg'";
+// 3. Borrar filas de tb_parte_diario
+$sqlDelete = "DELETE FROM tb_parte_diario WHERE id_parte_diario_global='$idg'";
 mysqli_query($conexion, $sqlDelete);
 
 echo json_encode(['success' => 'true']);

@@ -31,7 +31,7 @@ function get_correlatividad_omisiones($conexion) {
         b.modulo,
         t.fecha,
         CAST(t.obs_general AS UNSIGNED) as numero_doc
-      FROM tb_parte_diario_test t
+      FROM tb_parte_diario t
       INNER JOIN business_records b ON t.id_parte_diario_global = b.id_parte_diario_global
       WHERE t.origen = 'bot'
         AND t.obs_general IS NOT NULL
@@ -429,7 +429,7 @@ $(document).ready(function() {
     var global   = btn.data('global');
     var rowId    = btn.data('row');
 
-    if (!confirm('¿Cancelar el parte N°' + btn.closest('tr').find('td:nth-child(2)').text() + '? Se borrará de tb_parte_diario_test.')) return;
+    if (!confirm('¿Cancelar el parte N°' + btn.closest('tr').find('td:nth-child(2)').text() + '? Se borrará de tb_parte_diario.')) return;
 
     btn.attr('disabled', true).html('<i class="fa fa-spinner fa-spin"></i>');
 

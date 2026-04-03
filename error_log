@@ -1,0 +1,760 @@
+[04-Sep-2025 15:00:36 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[04-Sep-2025 15:00:36 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Sep-2025 14:19:29 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Sep-2025 14:19:29 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[10-Sep-2025 13:31:04 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[10-Sep-2025 13:31:04 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[10-Sep-2025 13:53:45 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[10-Sep-2025 13:53:45 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[11-Sep-2025 14:41:58 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[11-Sep-2025 14:41:58 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[11-Sep-2025 14:45:25 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[11-Sep-2025 14:45:25 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[11-Sep-2025 14:49:34 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[11-Sep-2025 14:49:34 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[11-Sep-2025 14:58:38 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[11-Sep-2025 14:58:38 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[11-Sep-2025 15:09:00 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[11-Sep-2025 15:09:00 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[12-Sep-2025 09:16:00 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[12-Sep-2025 09:16:00 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Sep-2025 08:51:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[17-Sep-2025 08:51:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[17-Sep-2025 19:10:24 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Sep-2025 19:10:24 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Sep-2025 20:30:40 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Sep-2025 20:30:40 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Sep-2025 20:32:34 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Sep-2025 20:32:34 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Sep-2025 20:42:45 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Sep-2025 20:42:45 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Sep-2025 20:44:41 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Sep-2025 20:44:41 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Sep-2025 20:45:57 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Sep-2025 20:45:57 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[18-Sep-2025 10:24:27 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[18-Sep-2025 10:24:27 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[18-Sep-2025 10:29:11 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[18-Sep-2025 10:29:11 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[18-Sep-2025 10:32:40 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[18-Sep-2025 10:32:40 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[18-Sep-2025 20:14:15 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[18-Sep-2025 20:14:15 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[18-Sep-2025 20:19:15 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[18-Sep-2025 20:19:15 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[18-Sep-2025 22:26:48 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[18-Sep-2025 22:26:48 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[19-Sep-2025 14:36:12 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[19-Sep-2025 14:36:12 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[19-Sep-2025 14:36:22 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[19-Sep-2025 14:36:22 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[19-Sep-2025 15:47:27 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[19-Sep-2025 15:47:27 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[21-Sep-2025 15:10:02 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[21-Sep-2025 15:10:02 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[21-Sep-2025 15:11:09 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[21-Sep-2025 15:11:09 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[21-Sep-2025 15:19:43 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[21-Sep-2025 15:19:43 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[21-Sep-2025 15:28:48 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[21-Sep-2025 15:28:48 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[21-Sep-2025 15:30:03 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[21-Sep-2025 15:30:03 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[21-Sep-2025 15:50:49 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[21-Sep-2025 15:50:49 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Sep-2025 17:51:40 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Sep-2025 17:51:40 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Sep-2025 17:57:08 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Sep-2025 17:57:08 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Sep-2025 17:58:40 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Sep-2025 17:58:40 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Sep-2025 18:00:51 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Sep-2025 18:00:51 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Sep-2025 18:19:43 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Sep-2025 18:19:43 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Sep-2025 15:40:00 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Sep-2025 15:40:00 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Sep-2025 15:45:20 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Sep-2025 15:45:20 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Sep-2025 15:49:14 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Sep-2025 15:49:14 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Sep-2025 15:50:10 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Sep-2025 15:50:10 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Sep-2025 15:57:34 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Sep-2025 15:57:34 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Sep-2025 16:03:32 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Sep-2025 16:03:32 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Sep-2025 16:04:21 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Sep-2025 16:04:21 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Sep-2025 16:05:06 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Sep-2025 16:05:06 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Sep-2025 16:15:15 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Sep-2025 16:15:15 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Sep-2025 15:20:22 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Sep-2025 15:20:22 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Sep-2025 15:33:46 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Sep-2025 15:33:46 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Sep-2025 15:40:58 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Sep-2025 15:40:58 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Sep-2025 15:45:51 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Sep-2025 15:45:51 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Sep-2025 17:58:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[25-Sep-2025 17:58:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[26-Sep-2025 12:30:33 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Sep-2025 12:30:33 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Sep-2025 12:38:50 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Sep-2025 12:38:50 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Sep-2025 13:59:43 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Sep-2025 13:59:43 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[29-Sep-2025 09:31:52 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[29-Sep-2025 09:31:52 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[29-Sep-2025 09:44:17 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[29-Sep-2025 09:44:17 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[29-Sep-2025 09:44:28 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[29-Sep-2025 09:44:28 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[29-Sep-2025 10:39:24 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[29-Sep-2025 10:39:24 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[01-Oct-2025 14:22:08 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[01-Oct-2025 14:22:08 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[01-Oct-2025 15:07:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[01-Oct-2025 15:07:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[03-Oct-2025 16:00:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[03-Oct-2025 16:00:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[03-Oct-2025 16:08:10 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[03-Oct-2025 16:08:10 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[03-Oct-2025 16:10:52 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[03-Oct-2025 16:10:52 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[03-Oct-2025 16:11:38 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[03-Oct-2025 16:11:38 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[03-Oct-2025 16:14:22 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[03-Oct-2025 16:14:22 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[03-Oct-2025 16:14:48 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[03-Oct-2025 16:14:48 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[03-Oct-2025 16:20:04 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[03-Oct-2025 16:20:04 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[07-Oct-2025 11:42:37 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[07-Oct-2025 11:42:37 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Oct-2025 10:26:50 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Oct-2025 10:26:50 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Oct-2025 10:29:51 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Oct-2025 10:29:51 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Oct-2025 10:30:52 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Oct-2025 10:30:52 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Oct-2025 10:32:08 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Oct-2025 10:32:08 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Oct-2025 10:37:12 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Oct-2025 10:37:12 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Oct-2025 10:37:43 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Oct-2025 10:37:43 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Oct-2025 10:40:12 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Oct-2025 10:40:12 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Oct-2025 10:40:49 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Oct-2025 10:40:49 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Oct-2025 13:30:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[08-Oct-2025 13:30:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[08-Oct-2025 13:30:21 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Oct-2025 13:30:21 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Oct-2025 13:43:45 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Oct-2025 13:43:45 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Oct-2025 14:08:21 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Oct-2025 14:08:21 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Oct-2025 14:14:34 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Oct-2025 14:14:34 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[13-Oct-2025 19:19:45 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[13-Oct-2025 19:19:45 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[14-Oct-2025 14:13:31 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[14-Oct-2025 14:13:31 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[16-Oct-2025 16:19:10 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Oct-2025 16:19:10 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Oct-2025 14:00:07 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Oct-2025 14:00:07 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[21-Oct-2025 22:22:47 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[21-Oct-2025 22:22:47 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[21-Oct-2025 22:22:47 America/Argentina/Mendoza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apsscom/public_html/agrogestion/db/querys.php on line 373
+[21-Oct-2025 22:22:47 America/Argentina/Mendoza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apsscom/public_html/agrogestion/db/querys.php on line 373
+[21-Oct-2025 22:22:47 America/Argentina/Mendoza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apsscom/public_html/agrogestion/db/querys.php on line 373
+[21-Oct-2025 22:22:47 America/Argentina/Mendoza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apsscom/public_html/agrogestion/db/querys.php on line 195
+[21-Oct-2025 22:22:47 America/Argentina/Mendoza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apsscom/public_html/agrogestion/db/querys.php on line 195
+[21-Oct-2025 22:22:47 America/Argentina/Mendoza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apsscom/public_html/agrogestion/db/querys.php on line 245
+[21-Oct-2025 22:22:47 America/Argentina/Mendoza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apsscom/public_html/agrogestion/db/querys.php on line 245
+[21-Oct-2025 22:22:47 America/Argentina/Mendoza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apsscom/public_html/agrogestion/db/querys.php on line 245
+[21-Oct-2025 22:22:47 America/Argentina/Mendoza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apsscom/public_html/agrogestion/db/querys.php on line 37
+[21-Oct-2025 22:22:47 America/Argentina/Mendoza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apsscom/public_html/agrogestion/db/querys.php on line 70
+[21-Oct-2025 22:22:47 America/Argentina/Mendoza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apsscom/public_html/agrogestion/db/querys.php on line 103
+[21-Oct-2025 22:22:47 America/Argentina/Mendoza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apsscom/public_html/agrogestion/db/querys.php on line 70
+[21-Oct-2025 22:22:47 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[21-Oct-2025 22:22:47 America/Argentina/Mendoza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apsscom/public_html/agrogestion/db/querys.php on line 103
+[21-Oct-2025 22:22:47 America/Argentina/Mendoza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apsscom/public_html/agrogestion/db/querys.php on line 128
+[21-Oct-2025 22:22:47 America/Argentina/Mendoza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/apsscom/public_html/agrogestion/db/querys.php on line 152
+[22-Oct-2025 10:23:14 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 10:23:14 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 10:30:37 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 10:30:37 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 12:42:22 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 12:42:22 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 12:43:26 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 12:43:26 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 12:43:56 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 12:43:56 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 12:51:36 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 12:51:36 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 12:52:28 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 12:52:28 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 12:54:04 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 12:54:04 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 12:55:31 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 12:55:31 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 12:56:21 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 12:56:21 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 12:59:34 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 12:59:34 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 13:04:50 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 13:04:50 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 13:08:10 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 13:08:10 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 13:10:59 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 13:10:59 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Oct-2025 23:44:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[22-Oct-2025 23:44:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[23-Oct-2025 16:22:23 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[23-Oct-2025 16:22:23 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[23-Oct-2025 16:27:22 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[23-Oct-2025 16:27:22 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[23-Oct-2025 16:33:13 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[23-Oct-2025 16:33:13 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[23-Oct-2025 16:34:51 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[23-Oct-2025 16:34:51 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[23-Oct-2025 17:50:12 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[23-Oct-2025 17:50:12 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[24-Oct-2025 09:47:50 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Oct-2025 09:47:50 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Oct-2025 09:57:38 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Oct-2025 09:57:38 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Oct-2025 10:11:16 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Oct-2025 10:11:16 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Oct-2025 10:31:41 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[24-Oct-2025 10:31:41 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[24-Oct-2025 13:53:00 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Oct-2025 13:53:00 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Oct-2025 10:59:09 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Oct-2025 10:59:09 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Oct-2025 11:21:45 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Oct-2025 11:21:45 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Oct-2025 11:26:16 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Oct-2025 11:26:16 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Oct-2025 11:29:52 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Oct-2025 11:29:52 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Oct-2025 11:42:28 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Oct-2025 11:42:28 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Oct-2025 11:47:59 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Oct-2025 11:47:59 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Oct-2025 11:56:38 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Oct-2025 11:56:38 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Oct-2025 11:58:37 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Oct-2025 11:58:37 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Oct-2025 12:18:19 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Oct-2025 12:18:19 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Oct-2025 12:44:08 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Oct-2025 12:44:08 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[28-Oct-2025 20:46:37 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[28-Oct-2025 20:46:37 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[02-Nov-2025 23:08:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[02-Nov-2025 23:08:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[03-Nov-2025 14:04:47 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[03-Nov-2025 14:04:47 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[03-Nov-2025 14:06:31 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[03-Nov-2025 14:06:31 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[03-Nov-2025 14:09:54 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[03-Nov-2025 14:09:54 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[03-Nov-2025 14:18:12 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[03-Nov-2025 14:18:12 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[03-Nov-2025 14:19:49 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[03-Nov-2025 14:19:49 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[03-Nov-2025 14:24:23 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[03-Nov-2025 14:24:23 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[03-Nov-2025 14:26:02 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[03-Nov-2025 14:26:02 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[03-Nov-2025 14:34:24 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[03-Nov-2025 14:34:24 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[03-Nov-2025 15:44:13 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[03-Nov-2025 15:44:13 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[04-Nov-2025 09:43:34 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[04-Nov-2025 09:43:34 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[05-Nov-2025 11:37:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[05-Nov-2025 11:37:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[07-Nov-2025 16:16:51 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[07-Nov-2025 16:16:51 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[07-Nov-2025 16:23:32 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[07-Nov-2025 16:23:32 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[07-Nov-2025 16:24:03 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[07-Nov-2025 16:24:03 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[10-Nov-2025 18:02:41 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[10-Nov-2025 18:02:41 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[13-Nov-2025 11:04:17 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[13-Nov-2025 11:04:17 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[13-Nov-2025 11:15:03 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[13-Nov-2025 11:15:03 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[13-Nov-2025 11:22:37 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[13-Nov-2025 11:22:37 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[13-Nov-2025 11:24:08 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[13-Nov-2025 11:24:08 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[13-Nov-2025 11:34:35 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[13-Nov-2025 11:34:35 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[13-Nov-2025 20:05:04 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[13-Nov-2025 20:05:04 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[13-Nov-2025 20:18:09 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[13-Nov-2025 20:18:09 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[13-Nov-2025 20:27:32 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[13-Nov-2025 20:27:32 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[14-Nov-2025 09:51:55 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[14-Nov-2025 09:51:55 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[14-Nov-2025 12:48:18 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[14-Nov-2025 12:48:18 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Nov-2025 10:19:32 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Nov-2025 10:19:32 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Nov-2025 10:19:49 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Nov-2025 10:19:49 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Nov-2025 10:37:32 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Nov-2025 10:37:32 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Nov-2025 10:44:12 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Nov-2025 10:44:12 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Nov-2025 10:44:51 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Nov-2025 10:44:51 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Nov-2025 10:51:01 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Nov-2025 10:51:01 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Nov-2025 10:53:37 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Nov-2025 10:53:37 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Nov-2025 11:17:55 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Nov-2025 11:17:55 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Nov-2025 11:24:47 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Nov-2025 11:24:47 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Nov-2025 17:26:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[17-Nov-2025 17:26:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[19-Nov-2025 09:36:11 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[19-Nov-2025 09:36:11 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[19-Nov-2025 09:49:33 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[19-Nov-2025 09:49:33 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[19-Nov-2025 10:17:09 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[19-Nov-2025 10:17:09 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Nov-2025 08:43:15 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Nov-2025 08:43:15 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Nov-2025 08:45:52 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Nov-2025 08:45:52 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Nov-2025 13:43:28 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[20-Nov-2025 13:43:28 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[21-Nov-2025 12:25:47 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[21-Nov-2025 12:25:47 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 09:11:08 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 09:11:08 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 09:19:36 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 09:19:36 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 09:29:45 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 09:29:45 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 09:35:06 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 09:35:06 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 09:35:15 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 09:35:15 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 09:44:30 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 09:44:30 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 09:50:25 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 09:50:25 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 09:51:25 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 09:51:25 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 09:54:14 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 09:54:14 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 10:03:54 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 10:03:54 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 10:09:57 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 10:09:57 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 10:14:20 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 10:14:20 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 10:15:16 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 10:15:16 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 10:16:05 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 10:16:05 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 10:33:37 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 10:33:37 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 11:27:42 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Nov-2025 11:27:42 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Nov-2025 09:10:11 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Nov-2025 09:10:11 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Nov-2025 09:43:03 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Nov-2025 09:43:03 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Nov-2025 09:50:01 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Nov-2025 09:50:01 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Nov-2025 09:51:25 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Nov-2025 09:51:25 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Nov-2025 11:23:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[26-Nov-2025 11:23:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[26-Nov-2025 13:11:28 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Nov-2025 13:11:28 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Nov-2025 13:13:25 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Nov-2025 13:13:25 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Nov-2025 17:02:40 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Nov-2025 17:02:40 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Nov-2025 17:09:00 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Nov-2025 17:09:00 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Nov-2025 16:14:12 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Nov-2025 16:14:12 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Nov-2025 21:19:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[27-Nov-2025 21:19:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[02-Dec-2025 11:12:02 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[02-Dec-2025 11:12:02 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[02-Dec-2025 11:12:38 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[02-Dec-2025 11:12:38 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[04-Dec-2025 10:03:44 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[04-Dec-2025 10:03:44 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[04-Dec-2025 11:33:01 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[04-Dec-2025 11:33:01 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[04-Dec-2025 11:33:13 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[04-Dec-2025 11:33:13 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[05-Dec-2025 13:50:11 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[05-Dec-2025 13:50:11 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[11-Dec-2025 12:26:02 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[11-Dec-2025 12:26:02 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[11-Dec-2025 12:34:02 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[11-Dec-2025 12:34:02 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[11-Dec-2025 12:38:56 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[11-Dec-2025 12:38:56 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[11-Dec-2025 12:40:23 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[11-Dec-2025 12:40:23 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[11-Dec-2025 12:54:22 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[11-Dec-2025 12:54:22 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[11-Dec-2025 15:05:28 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[11-Dec-2025 15:05:28 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[11-Dec-2025 16:07:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[11-Dec-2025 16:07:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[13-Dec-2025 16:56:15 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[13-Dec-2025 16:56:15 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[13-Dec-2025 16:57:44 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[13-Dec-2025 16:57:44 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[15-Dec-2025 18:38:52 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[15-Dec-2025 18:38:52 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[15-Dec-2025 19:32:25 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[15-Dec-2025 19:32:25 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Dec-2025 14:57:05 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Dec-2025 14:57:05 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Dec-2025 15:00:39 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Dec-2025 15:00:39 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Dec-2025 15:03:17 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Dec-2025 15:03:17 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Dec-2025 15:05:15 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Dec-2025 15:05:15 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Dec-2025 15:07:13 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Dec-2025 15:07:13 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Dec-2025 15:13:52 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Dec-2025 15:13:52 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Dec-2025 08:26:05 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Dec-2025 08:26:05 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Dec-2025 09:46:23 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Dec-2025 09:46:23 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Dec-2025 09:56:50 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Dec-2025 09:56:50 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Dec-2025 20:52:48 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Dec-2025 20:52:48 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Dec-2025 20:53:27 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Dec-2025 20:53:27 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Dec-2025 20:53:52 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[25-Dec-2025 20:53:52 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 10:15:38 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 10:15:38 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 10:17:14 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 10:17:14 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 10:18:30 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 10:18:30 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 10:20:40 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 10:20:40 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 10:28:56 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 10:28:56 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 10:29:53 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 10:29:53 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 10:32:00 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 10:32:00 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 10:33:39 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 10:33:39 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 11:18:18 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 11:18:18 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 11:21:11 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 11:21:11 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 11:23:21 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 11:23:21 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 13:17:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[26-Dec-2025 13:17:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[26-Dec-2025 14:15:06 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 14:15:06 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 14:27:11 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 14:27:11 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 15:34:22 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 15:34:22 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 15:38:47 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 15:38:47 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 15:44:45 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 15:44:45 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 15:45:18 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 15:45:18 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 15:46:12 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 15:46:12 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 15:46:50 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 15:46:50 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 15:47:51 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 15:47:51 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 15:49:43 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 15:49:43 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 15:52:02 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 15:52:02 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 15:56:47 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Dec-2025 15:56:47 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[29-Dec-2025 11:02:48 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[29-Dec-2025 11:02:48 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[06-Jan-2026 14:17:27 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[06-Jan-2026 14:17:27 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[06-Jan-2026 14:19:11 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[06-Jan-2026 14:19:11 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[06-Jan-2026 14:23:34 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[06-Jan-2026 14:23:34 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Jan-2026 11:01:59 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Jan-2026 11:01:59 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Jan-2026 17:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[08-Jan-2026 17:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[08-Jan-2026 18:04:34 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Jan-2026 18:04:34 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[08-Jan-2026 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[08-Jan-2026 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[12-Jan-2026 22:25:25 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[12-Jan-2026 22:25:25 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[12-Jan-2026 22:42:59 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[12-Jan-2026 22:42:59 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[14-Jan-2026 09:51:14 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[14-Jan-2026 09:51:14 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[14-Jan-2026 10:14:53 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[14-Jan-2026 10:14:53 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[14-Jan-2026 10:24:09 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[14-Jan-2026 10:24:09 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[14-Jan-2026 11:11:03 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[14-Jan-2026 11:11:03 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[14-Jan-2026 21:33:14 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[14-Jan-2026 21:33:14 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Jan-2026 09:13:16 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Jan-2026 09:13:16 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Jan-2026 09:58:04 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Jan-2026 09:58:04 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[19-Jan-2026 09:22:12 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[19-Jan-2026 09:22:12 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[19-Jan-2026 09:52:47 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[19-Jan-2026 09:52:47 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[19-Jan-2026 10:32:28 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[19-Jan-2026 10:32:28 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[19-Jan-2026 13:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[19-Jan-2026 13:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[20-Jan-2026 09:28:44 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Jan-2026 09:28:44 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Jan-2026 09:32:50 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Jan-2026 09:32:50 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Jan-2026 09:36:23 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Jan-2026 09:36:23 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Jan-2026 09:47:13 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Jan-2026 09:47:13 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Jan-2026 09:51:08 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Jan-2026 09:51:08 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Jan-2026 09:51:42 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Jan-2026 09:51:42 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Jan-2026 09:52:11 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Jan-2026 09:52:11 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Jan-2026 09:54:10 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Jan-2026 09:54:10 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Jan-2026 10:13:38 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Jan-2026 10:13:38 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Jan-2026 10:11:14 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Jan-2026 10:11:14 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Jan-2026 10:27:47 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Jan-2026 10:27:47 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Jan-2026 10:28:34 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Jan-2026 10:28:34 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Jan-2026 10:32:40 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Jan-2026 10:32:40 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Jan-2026 10:48:14 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[22-Jan-2026 10:48:14 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[23-Jan-2026 11:24:07 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[23-Jan-2026 11:24:07 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[23-Jan-2026 11:51:05 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[23-Jan-2026 11:51:05 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[23-Jan-2026 11:58:57 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[23-Jan-2026 11:58:57 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[23-Jan-2026 12:00:48 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[23-Jan-2026 12:00:48 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[23-Jan-2026 12:03:28 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[23-Jan-2026 12:03:28 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[23-Jan-2026 12:06:44 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[23-Jan-2026 12:06:44 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[23-Jan-2026 12:07:18 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[23-Jan-2026 12:07:18 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[23-Jan-2026 12:08:28 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[23-Jan-2026 12:08:28 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[23-Jan-2026 13:34:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[23-Jan-2026 13:34:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[23-Jan-2026 13:44:17 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[23-Jan-2026 13:44:17 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Jan-2026 09:13:49 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Jan-2026 09:13:49 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Jan-2026 16:28:58 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Jan-2026 16:28:58 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Jan-2026 08:00:11 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Jan-2026 08:00:11 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Jan-2026 11:45:17 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Jan-2026 11:45:17 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Jan-2026 15:41:20 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[27-Jan-2026 15:41:20 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[27-Jan-2026 15:41:32 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Jan-2026 15:41:32 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[31-Jan-2026 17:03:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[31-Jan-2026 17:03:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[02-Feb-2026 09:26:55 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[02-Feb-2026 09:26:55 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[02-Feb-2026 10:05:26 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[02-Feb-2026 10:05:26 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[02-Feb-2026 10:07:01 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[02-Feb-2026 10:07:01 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[02-Feb-2026 10:08:51 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[02-Feb-2026 10:08:51 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[02-Feb-2026 10:15:03 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[02-Feb-2026 10:15:03 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[02-Feb-2026 10:24:38 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[02-Feb-2026 10:24:38 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[05-Feb-2026 17:33:59 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[05-Feb-2026 17:33:59 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[06-Feb-2026 09:44:52 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[06-Feb-2026 09:44:52 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[06-Feb-2026 09:50:12 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[06-Feb-2026 09:50:12 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[06-Feb-2026 10:08:01 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[06-Feb-2026 10:08:01 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[06-Feb-2026 10:09:47 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[06-Feb-2026 10:09:47 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Feb-2026 14:25:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[16-Feb-2026 14:25:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[18-Feb-2026 10:44:12 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[18-Feb-2026 10:44:12 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[18-Feb-2026 10:44:30 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[18-Feb-2026 10:44:30 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[18-Feb-2026 15:50:00 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[18-Feb-2026 15:50:00 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[18-Feb-2026 15:56:45 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[18-Feb-2026 15:56:45 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[20-Feb-2026 10:10:44 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Feb-2026 10:10:44 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Feb-2026 10:20:11 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Feb-2026 10:20:11 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Feb-2026 10:32:53 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[20-Feb-2026 10:32:53 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[23-Feb-2026 10:49:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[23-Feb-2026 10:49:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[24-Feb-2026 08:22:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[24-Feb-2026 08:22:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[24-Feb-2026 08:32:43 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 08:32:43 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 08:35:11 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 08:35:11 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 08:49:42 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 08:49:42 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 08:52:17 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 08:52:17 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 09:02:01 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 09:02:01 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 09:04:30 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 09:04:30 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 09:06:09 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 09:06:09 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 09:09:33 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 09:09:33 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 09:10:39 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 09:10:39 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 12:51:36 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 12:51:36 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 13:35:09 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 13:35:09 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 13:38:47 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 13:38:47 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 13:40:35 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 13:40:35 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 13:42:04 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 13:42:04 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 13:42:47 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 13:42:47 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 13:48:04 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 13:48:04 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 13:48:50 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 13:48:50 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 14:09:34 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Feb-2026 14:09:34 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Feb-2026 10:48:04 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Feb-2026 10:48:04 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Feb-2026 11:54:20 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Feb-2026 11:54:20 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Feb-2026 09:13:33 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Feb-2026 09:13:33 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Feb-2026 09:15:33 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Feb-2026 09:15:33 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Feb-2026 17:59:09 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Feb-2026 17:59:09 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[02-Mar-2026 08:12:47 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[02-Mar-2026 08:12:47 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[12-Mar-2026 08:57:35 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[12-Mar-2026 08:57:35 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[12-Mar-2026 09:01:52 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[12-Mar-2026 09:01:52 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[12-Mar-2026 09:17:22 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[12-Mar-2026 09:17:22 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[12-Mar-2026 09:20:16 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[12-Mar-2026 09:20:16 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Mar-2026 14:46:03 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Mar-2026 14:46:03 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Mar-2026 14:47:25 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Mar-2026 14:47:25 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Mar-2026 14:48:09 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Mar-2026 14:48:09 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Mar-2026 14:50:49 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Mar-2026 14:50:49 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Mar-2026 14:52:48 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Mar-2026 14:52:48 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Mar-2026 14:54:32 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Mar-2026 14:54:32 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Mar-2026 14:56:48 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[16-Mar-2026 14:56:48 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Mar-2026 09:59:12 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Mar-2026 09:59:12 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Mar-2026 10:02:48 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Mar-2026 10:02:48 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Mar-2026 10:16:55 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Mar-2026 10:16:55 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Mar-2026 10:44:36 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[17-Mar-2026 10:44:36 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[19-Mar-2026 14:14:41 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[19-Mar-2026 14:14:41 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[19-Mar-2026 14:17:27 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[19-Mar-2026 14:17:27 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[19-Mar-2026 14:18:07 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[19-Mar-2026 14:18:07 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[19-Mar-2026 15:02:27 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[19-Mar-2026 15:02:27 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[19-Mar-2026 15:13:25 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[19-Mar-2026 15:13:25 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[19-Mar-2026 15:22:45 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/index2.php on line 6
+[19-Mar-2026 15:22:45 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/index2.php on line 11
+[24-Mar-2026 09:57:51 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Mar-2026 09:57:51 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Mar-2026 10:15:36 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[24-Mar-2026 10:15:36 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Mar-2026 09:55:01 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Mar-2026 09:55:01 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Mar-2026 09:56:41 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Mar-2026 09:56:41 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Mar-2026 09:59:32 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[26-Mar-2026 09:59:32 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Mar-2026 01:54:28 America/Argentina/Mendoza] PHP Warning:  A non-numeric value encountered in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Mar-2026 01:54:28 America/Argentina/Mendoza] PHP Warning:  Division by zero in /home/apsscom/public_html/agrogestion/db/querys.php on line 397
+[27-Mar-2026 20:38:11 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion_dev/index2.php on line 6
+[27-Mar-2026 20:38:11 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion_dev/index2.php on line 11
+[29-Mar-2026 01:03:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion_dev/index2.php on line 6
+[29-Mar-2026 01:03:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion_dev/index2.php on line 11
+[29-Mar-2026 20:49:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion_dev/index2.php on line 6
+[29-Mar-2026 20:49:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion_dev/index2.php on line 11

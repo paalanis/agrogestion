@@ -1,0 +1,20 @@
+[15-Nov-2024 09:05:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/llamadas/personal.php on line 6
+[15-Nov-2024 09:05:08 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/llamadas/personal.php on line 6
+[05-Dec-2024 11:22:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/llamadas/personal.php on line 6
+[05-Dec-2024 14:30:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/llamadas/personal.php on line 6
+[13-Dec-2024 10:35:45 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/llamadas/saldo.php on line 6
+[13-Dec-2024 10:35:45 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: deposito in /home/apsscom/public_html/agrogestion/abm/llamadas/saldo.php on line 10
+[05-Jan-2025 21:57:09 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/apsscom/public_html/agrogestion/abm/llamadas/personal.php on line 40
+[10-Jan-2025 10:00:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/llamadas/personal.php on line 6
+[07-Feb-2025 12:03:32 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/llamadas/personal.php on line 6
+[16-Apr-2025 09:31:56 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/apsscom/public_html/agrogestion/abm/llamadas/personal.php on line 40
+[10-Sep-2025 13:31:03 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/llamadas/personal.php on line 6
+[17-Sep-2025 12:12:18 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/apsscom/public_html/agrogestion/abm/llamadas/personal.php on line 40
+[18-Sep-2025 21:42:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/llamadas/personal.php on line 6
+[03-Oct-2025 16:16:46 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/apsscom/public_html/agrogestion/abm/llamadas/personal.php on line 40
+[24-Oct-2025 10:54:39 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/apsscom/public_html/agrogestion/abm/llamadas/personal.php on line 40
+[27-Oct-2025 11:48:05 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/apsscom/public_html/agrogestion/abm/llamadas/personal.php on line 40
+[17-Nov-2025 10:44:17 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/apsscom/public_html/agrogestion/abm/llamadas/personal.php on line 40
+[20-Nov-2025 14:41:27 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/apsscom/public_html/agrogestion/abm/llamadas/personal.php on line 40
+[20-Jan-2026 09:48:54 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/apsscom/public_html/agrogestion/abm/llamadas/personal.php on line 40
+[18-Feb-2026 10:53:42 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/apsscom/public_html/agrogestion/abm/llamadas/personal.php on line 40

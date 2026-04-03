@@ -1,0 +1,92 @@
+[04-Nov-2024 16:04:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/reporte/excel_propios.php on line 6
+[04-Nov-2024 16:04:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/reporte/excel_propios.php on line 94
+[17-Dec-2024 11:37:05 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/reporte/partesterceros.php on line 6
+[17-Dec-2024 11:37:05 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/reporte/partesterceros.php on line 10
+[20-Dec-2024 15:03:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 5
+[20-Dec-2024 15:03:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 10
+[20-Dec-2024 15:03:52 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 5
+[20-Dec-2024 15:03:52 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 10
+[20-Dec-2024 15:03:58 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 5
+[20-Dec-2024 15:03:58 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 10
+[17-Apr-2025 12:17:46 America/Argentina/Buenos_Aires] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/apsscom/public_html/agrogestion/abm/reporte/partesterceros.php on line 51
+[17-Apr-2025 12:17:46 America/Argentina/Buenos_Aires] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/apsscom/public_html/agrogestion/abm/reporte/partesterceros.php on line 52
+[25-Apr-2025 13:45:05 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 5
+[25-Apr-2025 13:45:05 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 10
+[25-Apr-2025 13:45:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 5
+[25-Apr-2025 13:45:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 10
+[29-Apr-2025 13:08:20 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 5
+[29-Apr-2025 13:08:20 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 10
+[29-Apr-2025 13:09:00 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 5
+[29-Apr-2025 13:09:00 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 10
+[29-Apr-2025 13:09:04 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 5
+[29-Apr-2025 13:09:04 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 10
+[29-Apr-2025 13:09:05 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 5
+[29-Apr-2025 13:09:05 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 10
+[29-Apr-2025 13:09:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 5
+[29-Apr-2025 13:09:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 10
+[29-Apr-2025 13:10:32 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 5
+[29-Apr-2025 13:10:32 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 10
+[07-Aug-2025 13:43:11 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 5
+[07-Aug-2025 13:43:11 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 10
+[23-Oct-2025 17:49:03 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 5
+[23-Oct-2025 17:49:03 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 10
+[23-Oct-2025 17:49:42 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 5
+[23-Oct-2025 17:49:42 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 10
+[23-Oct-2025 17:49:44 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 5
+[23-Oct-2025 17:49:44 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 10
+[23-Oct-2025 17:50:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 5
+[23-Oct-2025 17:50:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 10
+[24-Oct-2025 10:31:36 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 5
+[24-Oct-2025 10:31:36 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 10
+[02-Nov-2025 23:08:30 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 5
+[02-Nov-2025 23:08:30 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 10
+[02-Nov-2025 23:08:32 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 5
+[02-Nov-2025 23:08:32 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 10
+[20-Nov-2025 16:31:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/reporte/menu-partescargados.php on line 6
+[22-Dec-2025 15:03:30 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/reporte/menu-partescargados.php on line 6
+[31-Jan-2026 17:03:12 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 5
+[31-Jan-2026 17:03:12 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion/abm/querys/filtros.php on line 10
+[28-Mar-2026 02:10:04 America/Argentina/Buenos_Aires] PHP Warning:  include(../conexion/conexion.php): failed to open stream: No such file or directory in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-imagenes.php on line 13
+[28-Mar-2026 02:10:04 America/Argentina/Buenos_Aires] PHP Warning:  include(): Failed opening '../conexion/conexion.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-imagenes.php on line 13
+[28-Mar-2026 02:10:04 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function conectarServidor() in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-imagenes.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-imagenes.php on line 14
+[28-Mar-2026 02:10:08 America/Argentina/Buenos_Aires] PHP Warning:  include(../conexion/conexion.php): failed to open stream: No such file or directory in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-imagenes.php on line 13
+[28-Mar-2026 02:10:08 America/Argentina/Buenos_Aires] PHP Warning:  include(): Failed opening '../conexion/conexion.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-imagenes.php on line 13
+[28-Mar-2026 02:10:08 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function conectarServidor() in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-imagenes.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-imagenes.php on line 14
+[28-Mar-2026 02:10:11 America/Argentina/Buenos_Aires] PHP Warning:  include(../conexion/conexion.php): failed to open stream: No such file or directory in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-imagenes.php on line 13
+[28-Mar-2026 02:10:11 America/Argentina/Buenos_Aires] PHP Warning:  include(): Failed opening '../conexion/conexion.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-imagenes.php on line 13
+[28-Mar-2026 02:10:11 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function conectarServidor() in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-imagenes.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-imagenes.php on line 14
+[28-Mar-2026 02:10:14 America/Argentina/Buenos_Aires] PHP Warning:  include(../conexion/conexion.php): failed to open stream: No such file or directory in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-imagenes.php on line 13
+[28-Mar-2026 02:10:14 America/Argentina/Buenos_Aires] PHP Warning:  include(): Failed opening '../conexion/conexion.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-imagenes.php on line 13
+[28-Mar-2026 02:10:14 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function conectarServidor() in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-imagenes.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-imagenes.php on line 14
+[28-Mar-2026 02:11:12 America/Argentina/Buenos_Aires] PHP Warning:  include(../conexion/conexion.php): failed to open stream: No such file or directory in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-imagenes.php on line 13
+[28-Mar-2026 02:11:12 America/Argentina/Buenos_Aires] PHP Warning:  include(): Failed opening '../conexion/conexion.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-imagenes.php on line 13
+[28-Mar-2026 02:11:12 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function conectarServidor() in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-imagenes.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-imagenes.php on line 14
+[29-Mar-2026 01:04:05 America/Argentina/Buenos_Aires] PHP Warning:  include(reporte/bot-dashboard-status-bar.php): failed to open stream: No such file or directory in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-dashboard.php on line 2
+[29-Mar-2026 01:04:05 America/Argentina/Buenos_Aires] PHP Warning:  include(): Failed opening 'reporte/bot-dashboard-status-bar.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-dashboard.php on line 2
+[29-Mar-2026 01:04:33 America/Argentina/Buenos_Aires] PHP Warning:  include(reporte/bot-dashboard-status-bar.php): failed to open stream: No such file or directory in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-dashboard.php on line 2
+[29-Mar-2026 01:04:33 America/Argentina/Buenos_Aires] PHP Warning:  include(): Failed opening 'reporte/bot-dashboard-status-bar.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-dashboard.php on line 2
+[29-Mar-2026 01:04:55 America/Argentina/Buenos_Aires] PHP Warning:  include(reporte/bot-dashboard-status-bar.php): failed to open stream: No such file or directory in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-dashboard.php on line 2
+[29-Mar-2026 01:04:55 America/Argentina/Buenos_Aires] PHP Warning:  include(): Failed opening 'reporte/bot-dashboard-status-bar.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-dashboard.php on line 2
+[29-Mar-2026 01:19:30 America/Argentina/Buenos_Aires] PHP Warning:  include(reporte/bot-dashboard-status-bar.php): failed to open stream: No such file or directory in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-dashboard.php on line 2
+[29-Mar-2026 01:19:30 America/Argentina/Buenos_Aires] PHP Warning:  include(): Failed opening 'reporte/bot-dashboard-status-bar.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-dashboard.php on line 2
+[29-Mar-2026 01:23:36 America/Argentina/Buenos_Aires] PHP Warning:  include(reporte/bot-dashboard-status-bar.php): failed to open stream: No such file or directory in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-dashboard.php on line 22
+[29-Mar-2026 01:23:36 America/Argentina/Buenos_Aires] PHP Warning:  include(): Failed opening 'reporte/bot-dashboard-status-bar.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-dashboard.php on line 22
+[29-Mar-2026 01:25:19 America/Argentina/Buenos_Aires] PHP Warning:  include(reporte/bot-dashboard-status-bar.php): failed to open stream: No such file or directory in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-dashboard.php on line 22
+[29-Mar-2026 01:25:19 America/Argentina/Buenos_Aires] PHP Warning:  include(): Failed opening 'reporte/bot-dashboard-status-bar.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-dashboard.php on line 22
+[29-Mar-2026 01:25:57 America/Argentina/Buenos_Aires] PHP Fatal error:  Cannot redeclare conectarServidor() (previously declared in /home/apsscom/public_html/agrogestion_dev/conexion/conexion.php:4) in /home/apsscom/public_html/agrogestion_dev/conexion/conexion.php on line 4
+[01-Apr-2026 16:07:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: id_finca_usuario in /home/apsscom/public_html/agrogestion_dev/abm/reporte/bot-imagenes.php on line 6

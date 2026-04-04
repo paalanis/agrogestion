@@ -35,6 +35,7 @@ function get_correlatividad_omisiones($conexion) {
       INNER JOIN business_records b ON t.id_parte_diario_global = b.id_parte_diario_global
       WHERE t.origen = 'bot'
         AND t.obs_general IS NOT NULL
+        AND t.estado = 'ACTIVO'
         AND WEEK(t.fecha, 1) = WEEK(CURDATE(), 1)
         AND YEAR(t.fecha) = YEAR(CURDATE())
     ),
@@ -183,7 +184,6 @@ $rsUltimos = mysqli_query($conexion, $sqlUltimos);
 ?>
 
 <div class="right_col" role="main" style="min-height: auto;">
-    <?php include 'bot-dashboard-status-bar.php'; ?>
   <div class="clearfix"></div>
   <div class="col-md-12">
     <div class="x_panel">

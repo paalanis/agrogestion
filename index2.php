@@ -240,6 +240,7 @@ procesaControlPrespuestario();
                     <li><a class="menu" href="#" title="reporte_bot-errores">Partes con errores</a></li>
                     <li><a class="menu" href="#" title="reporte_bot-pendientes">Pendientes de aprobación</a></li>
                     <li><a class="menu" href="#" title="reporte_bot-imagenes">Imágenes del Bot</a></li>
+                    <li><a class="menu" href="#" title="reporte_bot-anular-parte">Anular partes</a></li>
                   </ul>
                 </li>
               </ul>

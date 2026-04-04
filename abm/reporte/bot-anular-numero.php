@@ -2,16 +2,31 @@
 error_reporting(0);
 ini_set('display_errors', '0');
 
+// INICIAR SESIÓN PRIMERO
 if (session_status() === PHP_SESSION_NONE) {
     session_start();
 }
 
-header('Content-Type: application/json; charset=utf-8');
+// REGENERAR SESIÓN POR SEGURIDAD
+if (!isset($_SESSION['_session_init'])) {
+    $_SESSION['_session_init'] = true;
+    @session_regenerate_id(true);
+}
 
-// Validar admin
-if (!isset($_SESSION['tipo_user']) || $_SESSION['tipo_user'] !== 'admin') {
+header('Content-Type: application/json; charset=utf-8');
+header('Cache-Control: no-cache, no-store, must-revalidate');
+
+// Validar sesión
+$es_admin = isset($_SESSION['tipo_user']) && $_SESSION['tipo_user'] === 'admin';
+
+if (!$es_admin) {
     http_response_code(403);
-    die(json_encode(['ok' => false, 'error' => 'No autorizado']));
+    die(json_encode([
+        'ok' => false, 
+        'error' => 'Sesión no válida o no autorizado',
+        'session_id' => session_id(),
+        'has_tipo_user' => isset($_SESSION['tipo_user']) ? 'sí' : 'no'
+    ]));
 }
 
 // Incluir conexión
@@ -111,7 +126,7 @@ if ($accion === 'anular') {
 
 } else {
     http_response_code(400);
-    die(json_encode(['ok' => false, 'error' => 'Acción inválida']));
+    die(json_encode(['ok' => false, 'error' => 'Acción inválida: ' . $accion]));
 }
 
 mysqli_close($conexion);

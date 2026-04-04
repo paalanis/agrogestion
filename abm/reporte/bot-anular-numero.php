@@ -3,136 +3,145 @@
  * bot-anular-numero.php
  * Ubicación: /abm/reporte/bot-anular-numero.php
  * 
- * Funcionalidad: Anular números de partes descartados en el campo
- * Métodos: POST con acción='anular' o acción='eliminar_anulacion'
+ * Funcionalidad: Anular números de partes descartados
  */
 
-session_start();
-header('Content-Type: application/json; charset=utf-8');
+// ==================== INICIALIZACIÓN CRÍTICA ====================
+error_reporting(0);  // Suprimir warnings que generen salida extra
+ini_set('display_errors', '0');
 
-// =====================================================
-// VALIDACIÓN DE ACCESO
-// =====================================================
-
-if (!isset($_SESSION['tipo_user']) || $_SESSION['tipo_user'] != 'admin') {
-    http_response_code(403);
-    echo json_encode([
-        'ok' => false,
-        'error' => 'Acceso denegado. Solo administradores pueden anular números.'
-    ]);
-    exit;
+// Iniciar sesión ANTES de cualquier output
+if (session_status() === PHP_SESSION_NONE) {
+    session_start();
 }
 
-// =====================================================
-// CONEXIÓN A BD
-// =====================================================
+// ESTABLECER HEADERS JSON INMEDIATAMENTE
+header('Content-Type: application/json; charset=utf-8');
+header('Cache-Control: no-cache, no-store, must-revalidate');
+header('Pragma: no-cache');
+header('Expires: 0');
+
+// ==================== VALIDACIÓN DE ACCESO ====================
+
+if (!isset($_SESSION['tipo_user']) || $_SESSION['tipo_user'] !== 'admin') {
+    http_response_code(403);
+    die(json_encode([
+        'ok' => false,
+        'error' => 'Acceso denegado. Solo administradores pueden anular números.'
+    ]));
+}
+
+// ==================== CONEXIÓN A BD ====================
+
+// Verificar que el archivo de conexión existe
+if (!file_exists('../../conexion/conexion.php')) {
+    http_response_code(500);
+    die(json_encode([
+        'ok' => false,
+        'error' => 'Archivo de configuración no encontrado'
+    ]));
+}
 
 include '../../conexion/conexion.php';
+
+// Validar que la función existe
+if (!function_exists('conectarServidor')) {
+    http_response_code(500);
+    die(json_encode([
+        'ok' => false,
+        'error' => 'Función conectarServidor no disponible'
+    ]));
+}
+
 $conexion = conectarServidor();
 
 if (!$conexion) {
     http_response_code(500);
-    echo json_encode(['ok' => false, 'error' => 'Error de conexión a base de datos']);
-    exit;
+    die(json_encode([
+        'ok' => false,
+        'error' => 'Error de conexión a base de datos'
+    ]));
 }
 
-// =====================================================
-// OBTENER PARÁMETROS
-// =====================================================
+// ==================== VALIDAR TABLA ====================
 
-$accion = $_POST['accion'] ?? '';
-$modulo = $_POST['modulo'] ?? '';
-$numero_doc = $_POST['numero_doc'] ?? 0;
-$motivo = $_POST['motivo'] ?? '';
-$obs = $_POST['obs'] ?? '';
+$tabla_check = mysqli_query($conexion, "SHOW TABLES LIKE 'tb_numeros_anulados'");
+if (!$tabla_check || mysqli_num_rows($tabla_check) === 0) {
+    http_response_code(500);
+    die(json_encode([
+        'ok' => false,
+        'error' => 'Tabla tb_numeros_anulados no existe'
+    ]));
+}
 
-// =====================================================
-// ACCIÓN: ANULAR UN NÚMERO
-// =====================================================
+// ==================== OBTENER PARÁMETROS ====================
+
+$accion = isset($_POST['accion']) ? trim($_POST['accion']) : '';
+$modulo = isset($_POST['modulo']) ? trim($_POST['modulo']) : '';
+$numero_doc = isset($_POST['numero_doc']) ? intval($_POST['numero_doc']) : 0;
+$motivo = isset($_POST['motivo']) ? trim($_POST['motivo']) : '';
+$obs = isset($_POST['obs']) ? trim($_POST['obs']) : '';
+
+// ==================== ACCIÓN: ANULAR ====================
 
 if ($accion === 'anular') {
     
-    // Validar parámetros
-    if (!$modulo || !$numero_doc || !$motivo) {
+    // Validación exhaustiva
+    if (empty($modulo) || $numero_doc <= 0 || empty($motivo)) {
         http_response_code(400);
-        echo json_encode([
+        die(json_encode([
             'ok' => false,
-            'error' => 'Faltan parámetros: modulo, numero_doc, motivo'
-        ]);
-        exit;
+            'error' => 'Parámetros inválidos o incompletos',
+            'debug' => [
+                'modulo' => $modulo ?: 'vacío',
+                'numero_doc' => $numero_doc,
+                'motivo' => $motivo ?: 'vacío'
+            ]
+        ]));
     }
     
-    // Validar que numero_doc sea positivo
-    $numero_doc = intval($numero_doc);
-    if ($numero_doc <= 0) {
-        http_response_code(400);
-        echo json_encode([
-            'ok' => false,
-            'error' => 'El número del parte debe ser mayor que 0'
-        ]);
-        exit;
-    }
-    
-    // Obtener semana y año actuales
     $semana = date('W');
     $anio = date('Y');
-    
-    // Formatear número con padding
     $numero_formateado = str_pad($numero_doc, 6, '0', STR_PAD_LEFT);
     
-    // Verificar si ya está anulado
+    // Escapar string
+    $modulo_esc = mysqli_real_escape_string($conexion, $modulo);
+    $motivo_esc = mysqli_real_escape_string($conexion, $motivo);
+    $obs_esc = mysqli_real_escape_string($conexion, $obs);
+    $usuario_esc = mysqli_real_escape_string($conexion, $_SESSION['usuario'] ?? 'sistema');
+    
+    // Verificar si ya existe
     $qry = "SELECT id FROM tb_numeros_anulados 
-            WHERE modulo = %s 
-              AND numero_doc = %d 
-              AND semana = %d 
-              AND anio = %d";
+            WHERE modulo = '$modulo_esc' 
+            AND numero_doc = $numero_doc 
+            AND semana = $semana 
+            AND anio = $anio";
     
-    $query = sprintf($qry,
-        "'" . mysqli_real_escape_string($conexion, $modulo) . "'",
-        $numero_doc,
-        $semana,
-        $anio
-    );
+    $result = mysqli_query($conexion, $qry);
     
-    $result = mysqli_query($conexion, $query);
-    
-    if (!$result) {
+    if ($result === false) {
         http_response_code(500);
-        echo json_encode([
+        die(json_encode([
             'ok' => false,
-            'error' => 'Error en la consulta: ' . mysqli_error($conexion)
-        ]);
-        exit;
+            'error' => 'Error en consulta de verificación: ' . mysqli_error($conexion),
+            'query' => $qry
+        ]));
     }
     
     if (mysqli_num_rows($result) > 0) {
         http_response_code(409);
-        echo json_encode([
+        die(json_encode([
             'ok' => false,
             'error' => "El número $numero_formateado ya está anulado esta semana"
-        ]);
-        exit;
+        ]));
     }
     
-    // Insertar anulación
-    $usuario = $_SESSION['usuario'] ?? 'sistema';
-    
+    // Insertar
     $qry = "INSERT INTO tb_numeros_anulados 
             (modulo, numero_doc, numero_formateado, semana, anio, usuario_anulo, motivo, obs)
-            VALUES (%s, %d, %s, %d, %d, %s, %s, %s)";
+            VALUES ('$modulo_esc', $numero_doc, '$numero_formateado', $semana, $anio, '$usuario_esc', '$motivo_esc', '$obs_esc')";
     
-    $query = sprintf($qry,
-        "'" . mysqli_real_escape_string($conexion, $modulo) . "'",
-        $numero_doc,
-        "'" . mysqli_real_escape_string($conexion, $numero_formateado) . "'",
-        $semana,
-        $anio,
-        "'" . mysqli_real_escape_string($conexion, $usuario) . "'",
-        "'" . mysqli_real_escape_string($conexion, $motivo) . "'",
-        "'" . mysqli_real_escape_string($conexion, $obs) . "'"
-    );
-    
-    if (mysqli_query($conexion, $query)) {
+    if (mysqli_query($conexion, $qry)) {
         http_response_code(201);
         echo json_encode([
             'ok' => true,
@@ -143,53 +152,46 @@ if ($accion === 'anular') {
         ]);
     } else {
         http_response_code(500);
-        echo json_encode([
+        die(json_encode([
             'ok' => false,
-            'error' => 'Error al insertar: ' . mysqli_error($conexion)
-        ]);
+            'error' => 'Error al insertar: ' . mysqli_error($conexion),
+            'query' => $qry
+        ]));
     }
 
-// =====================================================
-// ACCIÓN: DESHACER ANULACIÓN
-// =====================================================
+// ==================== ACCIÓN: ELIMINAR ANULACIÓN ====================
 
 } elseif ($accion === 'eliminar_anulacion') {
     
-    $id = $_POST['id'] ?? 0;
+    $id = isset($_POST['id']) ? intval($_POST['id']) : 0;
     
-    if (!$id) {
+    if ($id <= 0) {
         http_response_code(400);
-        echo json_encode([
+        die(json_encode([
             'ok' => false,
-            'error' => 'ID de anulación faltante'
-        ]);
-        exit;
+            'error' => 'ID inválido'
+        ]));
     }
     
-    $id = intval($id);
-    
-    // Obtener datos antes de eliminar (para logging)
-    $qry = "SELECT modulo, numero_formateado FROM tb_numeros_anulados WHERE id = %d";
-    $query = sprintf($qry, $id);
-    $result = mysqli_query($conexion, $query);
+    // Obtener datos antes de eliminar
+    $qry = "SELECT modulo, numero_formateado FROM tb_numeros_anulados WHERE id = $id";
+    $result = mysqli_query($conexion, $qry);
     
     if (!$result || mysqli_num_rows($result) === 0) {
         http_response_code(404);
-        echo json_encode([
+        die(json_encode([
             'ok' => false,
             'error' => 'Anulación no encontrada'
-        ]);
-        exit;
+        ]));
     }
     
     $row = mysqli_fetch_assoc($result);
     $numero_fmt = $row['numero_formateado'];
     
-    // Eliminar anulación
-    $qry = "DELETE FROM tb_numeros_anulados WHERE id = %d";
-    $query = sprintf($qry, $id);
+    // Eliminar
+    $qry = "DELETE FROM tb_numeros_anulados WHERE id = $id";
     
-    if (mysqli_query($conexion, $query)) {
+    if (mysqli_query($conexion, $qry)) {
         http_response_code(200);
         echo json_encode([
             'ok' => true,
@@ -197,27 +199,23 @@ if ($accion === 'anular') {
         ]);
     } else {
         http_response_code(500);
-        echo json_encode([
+        die(json_encode([
             'ok' => false,
             'error' => 'Error al eliminar: ' . mysqli_error($conexion)
-        ]);
+        ]));
     }
 
-// =====================================================
-// ACCIÓN NO VÁLIDA
-// =====================================================
+// ==================== ACCIÓN NO RECONOCIDA ====================
 
 } else {
     http_response_code(400);
-    echo json_encode([
+    die(json_encode([
         'ok' => false,
-        'error' => 'Acción no reconocida. Use: anular, eliminar_anulacion'
-    ]);
+        'error' => 'Acción no reconocida',
+        'accion_recibida' => $accion,
+        'acciones_validas' => ['anular', 'eliminar_anulacion']
+    ]));
 }
-
-// =====================================================
-// CERRAR CONEXIÓN
-// =====================================================
 
 mysqli_close($conexion);
 ?>

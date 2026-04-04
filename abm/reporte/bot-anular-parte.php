@@ -4,7 +4,7 @@
  * Ubicación: /abm/reporte/bot-anular-parte.php
  * 
  * Panel para anular números de partes descartados en el campo
- * Diseño consistente con Gentelella framework (x_panel)
+ * CORREGIDO: Ruta absoluta del fetch
  */
 
 session_start();
@@ -167,6 +167,7 @@ $anio = date('Y');
 <script>
 /**
  * Manejar formulario de anulación
+ * RUTA CORREGIDA: /agrogestion/abm/reporte/bot-anular-numero.php (ruta absoluta)
  */
 document.getElementById('form-anular-numero').addEventListener('submit', async (e) => {
     e.preventDefault();
@@ -175,7 +176,7 @@ document.getElementById('form-anular-numero').addEventListener('submit', async (
     formData.append('accion', 'anular');
     
     try {
-        const response = await fetch('./bot-anular-numero.php', {
+        const response = await fetch('/agrogestion/abm/reporte/bot-anular-numero.php', {
             method: 'POST',
             body: formData
         });
@@ -205,6 +206,7 @@ document.getElementById('form-anular-numero').addEventListener('submit', async (
 
 /**
  * Deshacer anulación
+ * RUTA CORREGIDA: /agrogestion/abm/reporte/bot-anular-numero.php (ruta absoluta)
  */
 function revertir_anulacion(id, numero_fmt) {
     if (!confirm('¿Deshacer anulación del número ' + numero_fmt + '?\n\n' +
@@ -216,7 +218,7 @@ function revertir_anulacion(id, numero_fmt) {
     formData.append('accion', 'eliminar_anulacion');
     formData.append('id', id);
     
-    fetch('./bot-anular-numero.php', {
+    fetch('/agrogestion/abm/reporte/bot-anular-numero.php', {
         method: 'POST',
         body: formData
     })

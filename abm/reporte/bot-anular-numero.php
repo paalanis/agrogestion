@@ -27,7 +27,7 @@ if (!isset($_SESSION['tipo_user']) || $_SESSION['tipo_user'] != 'admin') {
 // CONEXIÓN A BD
 // =====================================================
 
-include '../../../conexion/conexion.php';
+include '../../conexion/conexion.php';
 $conexion = conectarServidor();
 
 if (!$conexion) {

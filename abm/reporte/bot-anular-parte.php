@@ -1,128 +1,166 @@
-<!-- =====================================================
-     INSTRUCCIONES: Agregar este código a bot-dashboard.php
-     UBICACIÓN: Después del tab de "Pendientes de aprobación"
-     ANTES DE: </div> de cierre final
-     ===================================================== -->
+<?php
+/**
+ * bot-anular-parte.php
+ * Ubicación: /abm/reporte/bot-anular-parte.php
+ * 
+ * Panel para anular números de partes descartados en el campo
+ * Diseño consistente con Gentelella framework (x_panel)
+ */
 
-<div id="tab-anular-numeros" class="tab-content">
-    <h3>📋 Anular Números de Partes</h3>
-    
-    <p style="color:#666; margin:15px 0; padding:10px; background:#f0f8ff; border-left:4px solid #2c5aa0;">
-        <strong>¿Para qué sirve?</strong> Cuando un operario descarta un formulario en el campo 
-        (rayones, errores), regístralo aquí para que NO aparezca como omisión en el reporte de correlatividad.
-    </p>
-    
-    <!-- ==================== FORMULARIO ==================== -->
-    <div style="background:#f9f9f9; padding:20px; border-radius:5px; max-width:600px; margin:20px 0;">
+session_start();
+
+if (!isset($_SESSION['usuario'])) {
+    header("Location: ../../../index.php");
+    exit;
+}
+
+if ($_SESSION['tipo_user'] !== 'admin') {
+    http_response_code(403);
+    die('<div class="right_col" role="main"><h3>Acceso Denegado</h3></div>');
+}
+
+include '../../conexion/conexion.php';
+$conexion = conectarServidor();
+
+$semana = date('W');
+$anio = date('Y');
+?>
+
+<div class="right_col" role="main">
+  <div class="clearfix"></div>
+  
+  <div class="col-md-12">
+    <div class="x_panel">
+      <div class="x_title">
+        <h2>Anular Números de Partes</h2>
+        <div class="clearfix"></div>
+      </div>
+      <div class="x_content">
         
-        <form id="form-anular-numero">
+        <!-- SECCIÓN 1: Formulario y SECCIÓN 2: Tabla -->
+        <div class="row">
+          
+          <!-- COLUMNA IZQUIERDA: Formulario -->
+          <div class="col-md-6">
             
-            <div class="form-group">
-                <label><strong>Módulo/Finca:</strong></label>
-                <select name="modulo" required class="form-control" style="width:100%;">
-                    <option value="">-- Seleccionar --</option>
-                    <?php
-                    $qry = "SELECT DISTINCT modulo FROM business_records 
-                            WHERE modulo IS NOT NULL 
-                            ORDER BY modulo";
-                    $result = mysqli_query($conexion, $qry);
-                    while ($row = mysqli_fetch_assoc($result)) {
-                        echo '<option value="' . htmlspecialchars($row['modulo']) . '">' 
-                            . strtoupper($row['modulo']) . '</option>';
-                    }
-                    ?>
+            <p style="color:#666; font-size:13px; margin-bottom:20px;">
+              <strong>¿Cuándo usar esto?</strong> Cuando un operario descarta un formulario en el campo 
+              (rayones, errores graves), regístralo aquí para que NO aparezca como omisión en el reporte de correlatividad.
+            </p>
+            
+            <form id="form-anular-numero">
+              
+              <div class="form-group">
+                <label>Módulo/Finca:</label>
+                <select name="modulo" required class="form-control">
+                  <option value="">-- Seleccionar --</option>
+                  <?php
+                  $qry = "SELECT DISTINCT modulo FROM business_records 
+                          WHERE modulo IS NOT NULL 
+                          ORDER BY modulo";
+                  $result = mysqli_query($conexion, $qry);
+                  while ($row = mysqli_fetch_assoc($result)) {
+                    echo '<option value="' . htmlspecialchars($row['modulo']) . '">' 
+                      . strtoupper($row['modulo']) . '</option>';
+                  }
+                  ?>
                 </select>
-            </div>
-            
-            <div class="form-group">
-                <label><strong>Número del Parte:</strong></label>
+              </div>
+              
+              <div class="form-group">
+                <label>Número del Parte:</label>
                 <input type="number" name="numero_doc" required class="form-control" 
-                       min="1" max="9999" placeholder="Ej: 4" style="width:100%;">
-                <small style="color:#999;">Ingresa solo el número (ej: 4). Se formateará como 000004</small>
-            </div>
-            
-            <div class="form-group">
-                <label><strong>Motivo de anulación:</strong></label>
-                <select name="motivo" required class="form-control" style="width:100%;">
-                    <option value="">-- Seleccionar --</option>
-                    <option value="Rayones, ilegible">Rayones, ilegible</option>
-                    <option value="Datos duplicados">Datos duplicados</option>
-                    <option value="Error grave, no se puede usar">Error grave, no se puede usar</option>
-                    <option value="Formulario perdido">Formulario perdido</option>
-                    <option value="Correcciones ilegibles">Correcciones ilegibles</option>
-                    <option value="Otro">Otro</option>
+                       min="1" max="9999" placeholder="Ej: 4">
+                <small style="color:#999;">Ingresa solo el número. Se formateará como 000004</small>
+              </div>
+              
+              <div class="form-group">
+                <label>Motivo de anulación:</label>
+                <select name="motivo" required class="form-control">
+                  <option value="">-- Seleccionar --</option>
+                  <option value="Rayones, ilegible">Rayones, ilegible</option>
+                  <option value="Datos duplicados">Datos duplicados</option>
+                  <option value="Error grave, no se puede usar">Error grave, no se puede usar</option>
+                  <option value="Formulario perdido">Formulario perdido</option>
+                  <option value="Correcciones ilegibles">Correcciones ilegibles</option>
+                  <option value="Otro">Otro</option>
                 </select>
-            </div>
-            
-            <div class="form-group">
-                <label><strong>Observaciones (opcional):</strong></label>
+              </div>
+              
+              <div class="form-group">
+                <label>Observaciones (opcional):</label>
                 <textarea name="obs" class="form-control" rows="2" 
-                          placeholder="Detalles adicionales..." style="width:100%;"></textarea>
-            </div>
+                          placeholder="Detalles adicionales..."></textarea>
+              </div>
+              
+              <button type="submit" class="btn btn-danger">
+                <i class="fa fa-ban"></i> Anular Número
+              </button>
+            </form>
             
-            <button type="submit" class="btn btn-danger" style="width:100%;">
-                🚫 Anular Número
-            </button>
-        </form>
-        
-        <div id="resultado-anular" style="margin-top:15px;"></div>
-        
-    </div>
-    
-    <!-- ==================== LISTA DE ANULACIONES ESTA SEMANA ==================== -->
-    <div style="margin-top:40px;">
-        <h4>Números anulados esta semana (Semana <?= date('W') ?>)</h4>
-        
-        <table class="table table-striped" style="background:white; margin-top:15px;">
-            <thead>
-                <tr style="background:#34495e; color:white;">
+            <div id="resultado-anular" style="margin-top:15px;"></div>
+            
+          </div>
+          
+          <!-- COLUMNA DERECHA: Tabla de anulaciones -->
+          <div class="col-md-6">
+            
+            <h4 style="margin-top:0;">Anulados esta semana (Semana <?= $semana ?>)</h4>
+            
+            <div class="table-responsive">
+              <table class="table table-striped table-bordered">
+                <thead style="background:#34495e; color:white;">
+                  <tr>
                     <th>Módulo</th>
                     <th>Número</th>
                     <th>Motivo</th>
                     <th>Usuario</th>
-                    <th>Fecha</th>
-                    <th>Acción</th>
-                </tr>
-            </thead>
-            <tbody>
-                <?php
-                $semana = date('W');
-                $anio = date('Y');
-                $qry = "SELECT * FROM tb_numeros_anulados 
-                        WHERE semana = %d AND anio = %d 
-                        ORDER BY modulo, numero_doc";
-                $query = sprintf($qry, $semana, $anio);
-                $result = mysqli_query($conexion, $query);
-                
-                if (!$result || mysqli_num_rows($result) === 0) {
-                    echo '<tr><td colspan="6" style="text-align:center; color:#999; padding:20px;">
-                            ℹ️ Ningún número anulado esta semana
+                    <th style="width:60px;">Acción</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <?php
+                  $qry = "SELECT * FROM tb_numeros_anulados 
+                          WHERE semana = %d AND anio = %d 
+                          ORDER BY modulo, numero_doc";
+                  $query = sprintf($qry, $semana, $anio);
+                  $result = mysqli_query($conexion, $query);
+                  
+                  if (!$result || mysqli_num_rows($result) === 0) {
+                    echo '<tr><td colspan="5" style="text-align:center; color:#999; padding:20px;">
+                            ℹ️ Ninguno anulado
                           </td></tr>';
-                } else {
+                  } else {
                     while ($row = mysqli_fetch_assoc($result)) {
-                        $fecha = date('d/m/Y H:i', strtotime($row['fecha_anulacion']));
-                        echo '<tr>
-                            <td><strong style="color:#2c5aa0;">' . strtoupper($row['modulo']) . '</strong></td>
-                            <td><code style="background:#f0f0f0; padding:3px 6px;">' 
-                                . htmlspecialchars($row['numero_formateado']) . '</code></td>
-                            <td><small>' . htmlspecialchars($row['motivo']) . '</small></td>
-                            <td><small>' . htmlspecialchars($row['usuario_anulo']) . '</small></td>
-                            <td><small>' . $fecha . '</small></td>
-                            <td>
-                                <button class="btn btn-xs btn-warning" 
-                                        onclick="revertir_anulacion(' . $row['id'] . ', \'' 
-                                        . htmlspecialchars($row['numero_formateado']) . '\')"
-                                        style="font-size:11px;">
-                                    ↶ Deshacer
-                                </button>
-                            </td>
-                        </tr>';
+                      echo '<tr>
+                        <td><strong>' . strtoupper($row['modulo']) . '</strong></td>
+                        <td><code>' . htmlspecialchars($row['numero_formateado']) . '</code></td>
+                        <td><small>' . htmlspecialchars($row['motivo']) . '</small></td>
+                        <td><small>' . htmlspecialchars($row['usuario_anulo']) . '</small></td>
+                        <td style="text-align:center;">
+                          <button class="btn btn-xs btn-warning" 
+                                  onclick="revertir_anulacion(' . $row['id'] . ', \'' 
+                                  . htmlspecialchars($row['numero_formateado']) . '\')"
+                                  title="Deshacer anulación">
+                            <i class="fa fa-undo"></i>
+                          </button>
+                        </td>
+                      </tr>';
                     }
-                }
-                ?>
-            </tbody>
-        </table>
+                  }
+                  ?>
+                </tbody>
+              </table>
+            </div>
+            
+          </div>
+          
+        </div>
+        
+      </div>
     </div>
+  </div>
+  
 </div>
 
 <!-- ==================== JAVASCRIPT ==================== -->
@@ -137,7 +175,7 @@ document.getElementById('form-anular-numero').addEventListener('submit', async (
     formData.append('accion', 'anular');
     
     try {
-        const response = await fetch('reporte/bot-anular-numero.php', {
+        const response = await fetch('abm/reporte/bot-anular-numero.php', {
             method: 'POST',
             body: formData
         });
@@ -146,30 +184,31 @@ document.getElementById('form-anular-numero').addEventListener('submit', async (
         const div = document.getElementById('resultado-anular');
         
         if (result.ok) {
-            div.innerHTML = '<div class="alert alert-success" style="margin:10px 0;">' 
-                          + '✓ ' + result.mensaje + '</div>';
+            div.innerHTML = '<div class="alert alert-success alert-dismissible fade in" role="alert">' 
+                          + '<button type="button" class="close" data-dismiss="alert"><span>×</span></button>'
+                          + '<strong>✓ Éxito:</strong> ' + result.mensaje + '</div>';
             e.target.reset();
             
-            // Recargar tabla después de 1.5 segundos
             setTimeout(() => {
                 location.reload();
             }, 1500);
         } else {
-            div.innerHTML = '<div class="alert alert-danger" style="margin:10px 0;">' 
-                          + '✗ Error: ' + result.error + '</div>';
+            div.innerHTML = '<div class="alert alert-danger alert-dismissible fade in" role="alert">' 
+                          + '<button type="button" class="close" data-dismiss="alert"><span>×</span></button>'
+                          + '<strong>✗ Error:</strong> ' + result.error + '</div>';
         }
     } catch (error) {
         document.getElementById('resultado-anular').innerHTML = 
-            '<div class="alert alert-danger">Error en la solicitud: ' + error.message + '</div>';
+            '<div class="alert alert-danger">Error: ' + error.message + '</div>';
     }
 });
 
 /**
- * Deshacer anulación (con confirmación)
+ * Deshacer anulación
  */
 function revertir_anulacion(id, numero_fmt) {
     if (!confirm('¿Deshacer anulación del número ' + numero_fmt + '?\n\n' +
-                 'Este número volvería a aparecer como faltante en el reporte.')) {
+                 'Este número volverá a aparecer como faltante en el reporte.')) {
         return;
     }
     
@@ -177,7 +216,7 @@ function revertir_anulacion(id, numero_fmt) {
     formData.append('accion', 'eliminar_anulacion');
     formData.append('id', id);
     
-    fetch('reporte/bot-anular-numero.php', {
+    fetch('abm/reporte/bot-anular-numero.php', {
         method: 'POST',
         body: formData
     })
@@ -191,9 +230,11 @@ function revertir_anulacion(id, numero_fmt) {
         }
     })
     .catch(error => {
-        alert('Error en la solicitud: ' + error.message);
+        alert('Error: ' + error.message);
     });
 }
 </script>
 
-<!-- ===================================================== -->
+<?php
+mysqli_close($conexion);
+?>

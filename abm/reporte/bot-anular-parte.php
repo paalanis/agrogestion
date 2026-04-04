@@ -175,7 +175,7 @@ document.getElementById('form-anular-numero').addEventListener('submit', async (
     formData.append('accion', 'anular');
     
     try {
-        const response = await fetch('abm/reporte/bot-anular-numero.php', {
+        const response = await fetch('./bot-anular-numero.php', {
             method: 'POST',
             body: formData
         });
@@ -216,7 +216,7 @@ function revertir_anulacion(id, numero_fmt) {
     formData.append('accion', 'eliminar_anulacion');
     formData.append('id', id);
     
-    fetch('abm/reporte/bot-anular-numero.php', {
+    fetch('./bot-anular-numero.php', {
         method: 'POST',
         body: formData
     })

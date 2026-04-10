@@ -184,6 +184,7 @@ $rsUltimos = mysqli_query($conexion, $sqlUltimos);
 ?>
 
 <div class="right_col" role="main" style="min-height: auto;">
+  <?php include 'bot-dashboard-status-bar.php'; ?>
   <div class="clearfix"></div>
   <div class="col-md-12">
     <div class="x_panel">
